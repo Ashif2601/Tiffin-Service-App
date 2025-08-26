@@ -22,4 +22,4 @@ It allows customers to place orders, view menu items, and manage order details.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Ashif2601/Restaurant-Ordering-System.git
+git clone https://github.com/Ashif2601/Tiffin-Service-App.git
