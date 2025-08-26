@@ -1,4 +1,4 @@
-# Restaurant Ordering System (Java Console Application)
+# Tiffin Ordering System (Java Console Application)
 
 This is a simple **Java-based console application** that simulates a basic restaurant ordering system.  
 It allows customers to place orders, view menu items, and manage order details.
